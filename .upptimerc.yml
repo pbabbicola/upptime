@@ -7,6 +7,7 @@ sites:
     url: https://www.ecosia.org/
 
 user-agent: upptime-ecosia
+runner: "[self-hosted, linux]"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
