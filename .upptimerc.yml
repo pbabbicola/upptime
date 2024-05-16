@@ -6,7 +6,6 @@ sites:
   - name: Indexpage
     url: https://www.ecosia.org/
 
-delay: 1000
 user-agent: upptime-ecosia
 
 status-website:
