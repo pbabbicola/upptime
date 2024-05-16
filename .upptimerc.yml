@@ -6,7 +6,7 @@ sites:
   - name: Indexpage
     url: https://www.ecosia.org/
 
-user-agent: upptime-ecosia
+user-agent: pbabbicola
 runner: "[self-hosted, linux]"
 
 status-website:
