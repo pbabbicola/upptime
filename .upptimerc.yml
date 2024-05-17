@@ -5,9 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Indexpage
     url: https://www.ecosia.org/
+  - name: Autocomplete
+    url: https://ac.ecosia.org/autocomplete?q=test
+  - name: Web Search
+    url: https://www.ecosia.org/search?q=test
+  - name: Images Search
+    url: https://www.ecosia.org/images?q=test
+  - name: News Search
+    url: https://www.ecosia.org/news?q=test
+  - name: Videos Search
+    url: https://www.ecosia.org/videos?q=test
 
 user-agent: pbabbicola
 runner: "[self-hosted, linux]"
+delay: 50
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
